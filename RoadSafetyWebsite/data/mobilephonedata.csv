@@ -1,0 +1,173 @@
+"Year","Jurisdiction","Age","Detection","Fines"
+2008,"ACT","All ages","police",2060
+2008,"NSW","All ages","police",40882
+2008,"NT","All ages","police",671
+2008,"QLD","All ages","police",28499
+2008,"SA","All ages","police",11411
+2008,"TAS","All ages","police",6780
+2008,"VIC","All ages","police",49739
+2008,"WA","All ages","police",15957
+2009,"ACT","All ages","police",1890
+2009,"NSW","All ages","police",41167
+2009,"NT","All ages","police",1106
+2009,"QLD","All ages","police",33352
+2009,"SA","All ages","police",14167
+2009,"TAS","All ages","police",5665
+2009,"VIC","All ages","police",53101
+2009,"WA","All ages","police",14804
+2010,"ACT","All ages","police",2407
+2010,"NSW","All ages","police",51104
+2010,"NT","All ages","police",998
+2010,"QLD","All ages","police",33013
+2010,"SA","All ages","police",14139
+2010,"TAS","All ages","police",3735
+2010,"VIC","All ages","police",54728
+2010,"WA","All ages","police",11705
+2011,"ACT","All ages","police",2284
+2011,"NSW","All ages","police",46714
+2011,"NT","All ages","police",729
+2011,"QLD","All ages","police",30389
+2011,"SA","All ages","police",13402
+2011,"TAS","All ages","police",3241
+2011,"VIC","All ages","police",52630
+2011,"WA","All ages","police",10485
+2012,"ACT","All ages","police",1722
+2012,"NSW","All ages","police",42900
+2012,"NT","All ages","police",722
+2012,"QLD","All ages","police",28548
+2012,"SA","All ages","police",11623
+2012,"TAS","All ages","police",2141
+2012,"VIC","All ages","police",61497
+2012,"WA","All ages","police",17822
+2013,"ACT","All ages","police",1356
+2013,"NSW","All ages","police",33514
+2013,"NT","All ages","police",1058
+2013,"QLD","All ages","police",27998
+2013,"SA","All ages","police",12560
+2013,"TAS","All ages","police",2914
+2013,"VIC","All ages","police",52452
+2013,"WA","All ages","police",14563
+2014,"ACT","All ages","police",1115
+2014,"NSW","All ages","police",34952
+2014,"NT","All ages","police",517
+2014,"QLD","All ages","police",25068
+2014,"SA","All ages","police",11886
+2014,"TAS","All ages","police",3256
+2014,"VIC","All ages","police",41448
+2014,"WA","All ages","police",14377
+2015,"ACT","All ages","police",873
+2015,"NSW","All ages","police",37989
+2015,"NT","All ages","police",492
+2015,"QLD","All ages","police",23048
+2015,"SA","All ages","police",12446
+2015,"TAS","All ages","police",3273
+2015,"VIC","All ages","police",33598
+2015,"WA","All ages","police",16666
+2016,"ACT","All ages","police",1120
+2016,"NSW","All ages","police",38918
+2016,"NT","All ages","police",535
+2016,"QLD","All ages","police",17213
+2016,"SA","All ages","police",11153
+2016,"TAS","All ages","police",3191
+2016,"VIC","All ages","police",27925
+2016,"WA","All ages","police",14926
+2017,"ACT","All ages","police",1299
+2017,"NSW","All ages","police",41020
+2017,"NT","All ages","police",546
+2017,"QLD","All ages","police",15043
+2017,"SA","All ages","police",11252
+2017,"TAS","All ages","police",2738
+2017,"VIC","All ages","police",29293
+2017,"WA","All ages","police",16718
+2018,"ACT","All ages","police",1399
+2018,"NSW","All ages","police",37653
+2018,"NT","All ages","police",861
+2018,"QLD","All ages","police",12828
+2018,"SA","All ages","police",8471
+2018,"TAS","All ages","police",2614
+2018,"VIC","All ages","police",32458
+2018,"WA","All ages","police",17697
+2019,"ACT","All ages","police",1098
+2019,"NSW","All ages","police",25463
+2019,"NT","All ages","police",760
+2019,"QLD","All ages","police",11580
+2019,"SA","All ages","police",7567
+2019,"TAS","All ages","police",2355
+2019,"VIC","All ages","police",36694
+2019,"WA","All ages","police",11850
+2020,"ACT","All ages","police",812
+2020,"NSW","All ages","camera",138847
+2020,"NSW","All ages","police",12878
+2020,"NT","All ages","police",380
+2020,"QLD","All ages","police",4823
+2020,"SA","All ages","police",6325
+2020,"TAS","All ages","police",1966
+2020,"VIC","All ages","police",21231
+2020,"WA","All ages","police",7889
+2021,"ACT","All ages","police",544
+2021,"NSW","All ages","camera",163722
+2021,"NSW","All ages","police",10360
+2021,"NT","All ages","police",309
+2021,"QLD","All ages","camera",14574
+2021,"QLD","All ages","police",3973
+2021,"SA","All ages","police",4799
+2021,"TAS","All ages","police",2328
+2021,"VIC","All ages","police",15562
+2021,"WA","All ages","police",4909
+2022,"ACT","All ages","police",374
+2022,"NSW","All ages","camera",194793
+2022,"NSW","All ages","police",12904
+2022,"NT","All ages","police",302
+2022,"QLD","All ages","camera",118152
+2022,"QLD","All ages","police",3487
+2022,"SA","All ages","police",4583
+2022,"TAS","All ages","police",1973
+2022,"VIC","All ages","police",19428
+2022,"WA","All ages","police",6346
+2023,"ACT","0-16","police",10
+2023,"ACT","17-25","police",82
+2023,"ACT","26-39","police",110
+2023,"ACT","40-64","police",79
+2023,"ACT","65 and over","police",7
+2023,"NSW","0-16","police",18
+2023,"NSW","17-25","police",4141
+2023,"NSW","26-39","police",5055
+2023,"NSW","40-64","police",3692
+2023,"NSW","65 and over","police",379
+2023,"NSW","Unknown","camera",202757
+2023,"NT","17-25","police",41
+2023,"NT","26-39","police",90
+2023,"NT","40-64","police",64
+2023,"NT","65 and over","police",10
+2023,"QLD","Unknown","camera",77213
+2023,"QLD","Unknown","police",3079
+2023,"SA","0-16","police",3
+2023,"SA","17-25","police",1387
+2023,"SA","26-39","police",2272
+2023,"SA","40-64","police",1805
+2023,"SA","65 and over","police",302
+2023,"SA","Unknown","police",0
+2023,"TAS","0-16","police",0
+2023,"TAS","17-25","camera",80
+2023,"TAS","17-25","police",360
+2023,"TAS","26-39","camera",361
+2023,"TAS","26-39","police",656
+2023,"TAS","40-64","camera",374
+2023,"TAS","40-64","police",463
+2023,"TAS","65 and over","camera",55
+2023,"TAS","65 and over","police",79
+2023,"VIC","0-16","police",6
+2023,"VIC","17-25","camera",893
+2023,"VIC","17-25","police",3547
+2023,"VIC","26-39","camera",4843
+2023,"VIC","26-39","police",8319
+2023,"VIC","40-64","camera",5914
+2023,"VIC","40-64","police",6248
+2023,"VIC","65 and over","camera",877
+2023,"VIC","65 and over","police",695
+2023,"VIC","Unknown","camera",18196
+2023,"VIC","Unknown","police",8
+2023,"WA","17-25","police",706
+2023,"WA","26-39","police",1512
+2023,"WA","40-64","police",1227
+2023,"WA","65 and over","police",147
